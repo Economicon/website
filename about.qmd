@@ -1,0 +1,11 @@
+---
+title: "About"
+about: 
+  template: jolla
+  links:
+    - icon: mastodon
+      text: mastodon
+      href: https://mastodon.social/@econoprof
+---
+
+I'm Joan Combs Durso. I used to teach economics, finance, statistics, quant methods, research methods, all the interdisciplinary seminars, and CPR. I'm a feminist economist. Opinions here are entirely my own. More about me later. This is my #day1 About page.

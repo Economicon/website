@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "econoprof",
+    "section": "",
+    "text": "This is my Quarto website. It’s part of my #30DaysOfQuarto project. My current goals are to:\n\nLearn Quarto.\nMake a website that reflects a new Minimum Viable Product each day.\nDo something about my ToBeRead Pile.\n\nToolchain for this one:\n\nRStudio including Quarto\nQuarto.pub, a free site from Posit for publishing using Quarto\n\nSome useful resources for this one are:\n\nAll things Quarto\nMine Çetinkaya-Rundel’s very useful Get Started guides here\nJosh French’s Creating Websites with Quarto and Github playlist on Youtube.\nIsabella Velásquez on Building a Blog with Quarto\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Joan Combs Durso. I used to teach economics, finance, statistics, quant methods, research methods, all the interdisciplinary seminars, and CPR. I’m a feminist economist. Opinions here are entirely my own. More about me later. This is my #day1 About page."
+  }
+]

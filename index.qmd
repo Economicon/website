@@ -1,0 +1,29 @@
+---
+title: "econoprof"
+---
+
+This is my Quarto website. It's part of my #30DaysOfQuarto project. My current goals are to:
+
+1.  Learn Quarto.
+
+2.  Make a website that reflects a new Minimum Viable Product each day.
+
+3.  Do something about my ToBeRead Pile.
+
+Toolchain for this one:
+
+-   RStudio including Quarto
+
+-   [Quarto.pub](https://quartopub.com/), a free site from Posit for publishing using Quarto
+
+Some useful resources for this one are:
+
+-   All things [Quarto](https://quarto.org)
+
+-   Mine Çetinkaya-Rundel's very useful Get Started guides [here](https://quarto.org/docs/get-started/)
+
+-   Josh French's [Creating Websites with Quarto and Github](https://www.youtube.com/playlist?list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo "A step by step approach that integrates GitHub.") playlist on Youtube.
+
+-   Isabella Velásquez on [Building a Blog with Quarto](https://www.youtube.com/watch?v=CVcvXfRyfE0)
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
